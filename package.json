@@ -1,0 +1,15 @@
+{
+  "name": "simplerestservice",
+  "version": "1.0.0",
+  "description": "Create service for get,post",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Rajalakshmi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
